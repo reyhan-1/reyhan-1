@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello 👋
+My name is Reyhan Uyanik and I am senior computer science student. I'm Turkish American living in Ankara. 
+
+### Here is Homer's Web Page <img src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/homer.gif" width="30px">
+, and here is mine  [reyhan-1.github.io](http://reyhan-1.github.io/).
+
+
 
 <!--
 **reyhan-1/reyhan-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
