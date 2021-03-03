@@ -5,7 +5,7 @@ My name is Reyhan Uyanik and I am senior computer science student. I'm Turkish A
 ## More about me
 ### Here is Homer's Web Page <img align="right" src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/homer.gif" width="500px" >
 ### and here is mine  [reyhan-1.github.io](http://reyhan-1.github.io/).
-
+<br>
 ## My GitHub Statistics
 <a href="https://github.com/reyhan-1/reyhan-1">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -15,6 +15,8 @@ My name is Reyhan Uyanik and I am senior computer science student. I'm Turkish A
 </a>
 
 - :seedling: &nbsp;I’m currently learning **Go** and **three.js**
+
+<br>
 ## Contact
 - [reyhan-1.github.io](http://reyhan-1.github.io/).
 - [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik)
