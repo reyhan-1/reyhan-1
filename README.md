@@ -1,8 +1,8 @@
 ### Hello 👋
 My name is Reyhan Uyanik and I am senior computer science student. I'm Turkish American living in Ankara. 
 
-### Here is Homer's Web Page <img src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/homer.gif" width="30px">
-, and here is mine  [reyhan-1.github.io](http://reyhan-1.github.io/).
+### Here is Homer's Web Page <img src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/homer.gif" >
+### , and here is mine  [reyhan-1.github.io](http://reyhan-1.github.io/).
 
 
 
