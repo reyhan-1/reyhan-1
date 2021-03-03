@@ -2,7 +2,7 @@
 My name is Reyhan Uyanik and I am senior computer science student. I'm Turkish American living in Ankara. You can find me on [Linkedin](https://www.linkedin.com/in/reyhan-uyanik).
 
 
-## &#x270d; More about me
+## More about me
 ### Here is Homer's Web Page <img src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/homer.gif" width="300px" >
 ### and here is mine  [reyhan-1.github.io](http://reyhan-1.github.io/).
 
@@ -16,13 +16,9 @@ My name is Reyhan Uyanik and I am senior computer science student. I'm Turkish A
 </a>
 
 <a href="https://github.com/reyhan-1/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reyhan-1&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
-<a href="https://github.com/reyhan-1/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reyhan-1&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
 
 
 <!--
