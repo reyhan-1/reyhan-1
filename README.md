@@ -14,18 +14,9 @@ I am senior software engineering student in Bilkent University. I'm Turkish Amer
 - reyhanuyanik@icloud.com
 
 
- # Here is Homer Simpson's Web Page
- <img align="left" src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/homer.gif" width="400" >
-# and Here is My Web page
- <img align="right" src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/reyhan.gif" width="400"  >
-
-
-
-
-
-
-
-
+ # My Web Page | Homer Simpson's Web Page
+ <img align="right" src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/homer.gif" width="400" >
+ <img align="left" src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/reyhan.gif" width="400"  >
 
 <!--
 **reyhan-1/reyhan-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
