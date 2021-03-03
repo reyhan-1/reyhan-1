@@ -2,11 +2,9 @@
 I am senior software engineering student in Bilkent University. I'm Turkish American living in Ankara. You can find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik).
 
 <a href="https://github.com/reyhan-1/reyhan-1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&hide=java,&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21%22 />
 </a>
-<a href="https://github.com/reyhan-1/reyhan-1">
-  <img src="https://github-readme-stats.vercel.app/api?username=reyhan-1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Reyhan's GitHub Stats" />
-</a>
+
 
 
 - :seedling: &nbsp;I’m currently learning **Go** and **Django**
@@ -43,4 +41,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://github.com/reyhan-1/reyhan-1">
+  <img src="https://github-readme-stats.vercel.app/api?username=reyhan-1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Reyhan's GitHub Stats" />
+</a>
 -->
+
