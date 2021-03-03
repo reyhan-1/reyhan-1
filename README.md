@@ -1,8 +1,8 @@
-# Hello World! I am Reyhan Uyanik 👋
+# Hello World! I am Reyhan Uyanik 👩🏻‍💻
 I am senior software engineering student in Bilkent University. I'm Turkish American living in Ankara. You can find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik).
 
 ![My Top](https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&layout=compact)
-![My Top](https://github-readme-stats.vercel.app/api?username=reyhan-1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+![My Top](https://github-readme-stats.vercel.app/api?username=reyhan-1)
 
 
 - :seedling: &nbsp;I’m currently learning **Go** and **Django**
