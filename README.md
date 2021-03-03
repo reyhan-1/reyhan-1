@@ -3,7 +3,7 @@ My name is Reyhan Uyanik and I am senior computer science student. I'm Turkish A
 
 
 ## More about me
-### Here is Homer's Web Page <img align="right" src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/homer.gif" width="500px" >
+### Here is Homer's Web Page <img align="left" src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/homer.gif" width="250px" >
 ### and here is mine  [reyhan-1.github.io](http://reyhan-1.github.io/).
 
 ## My GitHub Statistics
