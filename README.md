@@ -9,14 +9,14 @@ I am senior software engineering student in Bilkent University. I'm Turkish Amer
 
 
 ## How to Reach Me 
-- [my web page](http://reyhan-1.github.io/).
+- [my web page](http://reyhan-1.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik)
 - reyhanuyanik@icloud.com
 
 
 ## More about me
- Here is Homer Simpson's Web Page <img src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/homer.gif" width="400" >
- and here is mine <img src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/reyhan.gif" width="400">
+ Here is Homer Simpson's Web Page <img src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/homer.gif" width="400" style="vertical-align:middle">
+ and here is mine <img src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/reyhan.gif" width="400" style="vertical-align:middle" >
 
 
 
