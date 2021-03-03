@@ -15,8 +15,8 @@ I am senior software engineering student in Bilkent University. I'm Turkish Amer
 
 
  # My Web Page | Homer Simpson's Web Page
-  <img src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/reyhan.gif" width="350">
- <img src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/homer.gif" width="350">
+  <img align="left" src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/reyhan.gif" width="350">
+ <img align="right" src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/homer.gif" width="400">
 
 
 <!--
