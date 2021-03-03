@@ -2,7 +2,7 @@
 I am senior software engineering student in Bilkent University. I'm Turkish American living in Ankara. You can find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik).
 
 <a href="https://github.com/reyhan-1/reyhan-1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&hide=java,&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21%22 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1>
 </a>
 
 
