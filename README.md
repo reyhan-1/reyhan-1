@@ -12,8 +12,7 @@ I am senior software engineering student in Bilkent University. I'm Turkish Amer
 - [my web page](http://reyhan-1.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik)
 - reyhanuyanik@icloud.com
-- [Hackerrank](https://www.hackerrank.com/reyhanu)
-- [Instagram](https://www.instagram.com/uyanikre/)
+
 
  # My Web Page | Homer Simpson's Web Page
   <img align="left" src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/reyhan.gif" width="350">
@@ -23,6 +22,8 @@ I am senior software engineering student in Bilkent University. I'm Turkish Amer
 <!--
 **reyhan-1/reyhan-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- [Hackerrank](https://www.hackerrank.com/reyhanu)
+- [Instagram](https://www.instagram.com/uyanikre/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
