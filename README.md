@@ -3,7 +3,9 @@ I am senior software engineering student in Bilkent University. I'm Turkish Amer
 
 - :seedling: &nbsp;I’m currently learning **Go** and **Django**
 
-![My Top](https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&layout=compact&langs_count=6&show_icons=true&theme=radical)
+<a href="https://github.com/reyhan-1/reyhan-1">
+  <img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&layout=compact&langs_count=6&show_icons=true&theme=radical alt="Reyhan's GitHub Stats" />
+ </a>
 
 
 
