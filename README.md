@@ -1,11 +1,10 @@
 # Hello World! I am Reyhan Uyanik 👩🏻‍💻
 I am senior software engineering student in Bilkent University. I'm Turkish American living in Ankara. You can find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik).
 
+- :seedling: &nbsp;I’m currently learning **Go** and **Django**
+
 ![My Top](https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&layout=compact&langs_count=6&show_icons=true&theme=radical)
 ![My Top](https://github-readme-stats.vercel.app/api?username=reyhan-1&show_icons=true&theme=radical)
-
-
-- :seedling: &nbsp;I’m currently learning **Go** and **Django**
 
 
 ## How to Reach Me 
@@ -15,8 +14,8 @@ I am senior software engineering student in Bilkent University. I'm Turkish Amer
 
 
  # My Web Page | Homer Simpson's Web Page
-  <img align="left" src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/reyhan.gif" width="350">
- <img align="right" src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/homer.gif" width="400">
+  <img align="left" src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/reyhan.gif" width="250">
+ <img align="right" src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/homer.gif" width="300">
 
 
 <!--
