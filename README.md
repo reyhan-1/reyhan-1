@@ -4,7 +4,7 @@ I am senior software engineering student in Bilkent University. I'm Turkish Amer
 - :seedling: &nbsp;I’m currently learning **Go** and **Django**
 
 ![My Top](https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&layout=compact&langs_count=6&show_icons=true&theme=radical)
-![My Top](https://github-readme-stats.vercel.app/api?username=reyhan-1&show_icons=true&theme=radical)
+
 
 
 ## How to Reach Me 
@@ -14,13 +14,13 @@ I am senior software engineering student in Bilkent University. I'm Turkish Amer
 
 
  # My Web Page | Homer Simpson's Web Page
-  <img src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/reyhan.gif" width="250">
- <img src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/homer.gif" width="300">
+  <img align="left" src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/reyhan.gif" width="350">
+ <img align="right" src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/homer.gif" width="400">
 
 
 <!--
 **reyhan-1/reyhan-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![My Top](https://github-readme-stats.vercel.app/api?username=reyhan-1&show_icons=true&theme=radical)
 - [Hackerrank](https://www.hackerrank.com/reyhanu)
 - [Instagram](https://www.instagram.com/uyanikre/)
 Here are some ideas to get you started:
