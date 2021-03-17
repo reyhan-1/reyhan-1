@@ -14,7 +14,6 @@ I'm senior software engineering student in Bilkent University and Turkish Americ
 - [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik)
 - reyhanuyanik@icloud.com
 - [Hackerrank](https://www.hackerrank.com/reyhanu)
-- [Instagram](https://www.instagram.com/uyanikre/
 
 
 <!--
