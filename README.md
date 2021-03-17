@@ -1,5 +1,5 @@
 # Hello World! I am Reyhan Uyanik 👩🏻‍💻
-I am senior software engineering student in Bilkent University. I'm Turkish American living in Ankara. You can find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik).
+I'm senior software engineering student in Bilkent University and Turkish American living in Ankara. You can find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik).
 
 - :seedling: &nbsp;I’m currently learning **Go** and **Django**
 
@@ -14,12 +14,7 @@ I am senior software engineering student in Bilkent University. I'm Turkish Amer
 - [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik)
 - reyhanuyanik@icloud.com
 - [Hackerrank](https://www.hackerrank.com/reyhanu)
-- [Instagram](https://www.instagram.com/uyanikre/)
-
-
- ## My Web Page | Homer Simpson's Web Page
-  <img align="left" src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/reyhan.gif" width="350">
- <img align="right" src="https://raw.githubusercontent.com/reyhan-1/reyhan-1/master/homer.gif" width="400">
+- [Instagram](https://www.instagram.com/uyanikre/
 
 
 <!--
