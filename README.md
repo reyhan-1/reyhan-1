@@ -12,11 +12,14 @@ I'm senior software engineering student in Bilkent University and Turkish Americ
 ## How to Reach Me 
 - [my web page](http://reyhan-1.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik)
-- reyhanuyanik@icloud.com
-- [Hackerrank](https://www.hackerrank.com/reyhanu)
+- Email me: reyhanuyanik@icloud.com
+
 
 
 <!--
+
+- reyhanuyanik@icloud.com
+- [Hackerrank](https://www.hackerrank.com/reyhanu)
 **reyhan-1/reyhan-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![My Top](https://github-readme-stats.vercel.app/api?username=reyhan-1&show_icons=true&theme=radical)
 
