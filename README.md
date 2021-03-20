@@ -11,8 +11,7 @@ I'm senior software engineering student in Bilkent University and Turkish Americ
 
 ## How to Reach Me 
 - [my web page](http://reyhan-1.github.io/)
-- 
-- [Email me] (reyhanuyanik@icloud.com) reyhanuyanik@icloud.com
+- [Email me](reyhanuyanik@icloud.com) reyhanuyanik@icloud.com
 
 
 
