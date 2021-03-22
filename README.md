@@ -5,7 +5,8 @@
   <img align="right" src=https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&layout=compact&langs_count=6&show_icons=true&theme=radical alt="Reyhan's GitHub Stats" />
  </a>
  
-I'm senior software engineering student in Bilkent University. You can find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik).
+I'm senior software engineering student in Bilkent University. 
+You can find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik).
 
 - :seedling: &nbsp;I’m currently learning **Go** and **Django**
 
