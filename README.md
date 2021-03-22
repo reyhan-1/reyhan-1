@@ -1,5 +1,5 @@
 # Hello World! I'm Reyhan 👩🏻‍💻
-I'm senior software engineering student in Bilkent University and Turkish American living in Ankara. You can find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik).
+I'm senior software engineering student in Bilkent University. You can find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik).
 
 - :seedling: &nbsp;I’m currently learning **Go** and **Django**
 
