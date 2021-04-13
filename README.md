@@ -6,7 +6,7 @@
  </a>
  
 I'm senior software engineering student in Bilkent University. <br/>
-You can find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik). And you can visit [my web page](http://reyhan-1.github.io/)
+You can find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik). And you can visit [my web page](http://reyhan-1.github.io/).
 
 - :seedling: &nbsp;I’m currently learning **Go** 
 
