@@ -8,13 +8,12 @@
 I'm senior software engineering student in Bilkent University. <br/>
 You can find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik).
 
-- :seedling: &nbsp;I’m currently learning **Go** and **Django**
-
-
+- :seedling: &nbsp;I’m currently learning **Go** 
+- ⚡ Visit [my web page](http://reyhan-1.github.io/)
 
 
 ## How to Reach Me 
-- Visit [my web page](http://reyhan-1.github.io/)
+
 - Email me reyhanuyanik@icloud.com
 
 
