@@ -1,15 +1,8 @@
 # Hello World! I'm Reyhan 👩🏻‍💻
-
-
-<a href="https://github.com/reyhan-1/reyhan-1">
-  <img align="right" src=https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&layout=compact&langs_count=6&show_icons=true&theme=radical alt="Reyhan's GitHub Stats" />
- </a>
  
 I'm senior software engineering student in Bilkent University. <br/>
 
 - :seedling: &nbsp;I’m currently learning **Go** 
-
-
 
 ## How to Reach Me 
 <img align="left" src="avatar.gif" alt="avatar"> <br/>
@@ -17,6 +10,11 @@ I'm senior software engineering student in Bilkent University. <br/>
 - you can visit [my web page](http://reyhan-1.github.io/)
 - Email me reyhanuyanik@icloud.com
 - Check out my resume (https://reyhan-1.github.io/resume/)
+
+
+<a href="https://github.com/reyhan-1/reyhan-1">
+  <img align="right" src=https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&layout=compact&langs_count=6&show_icons=true&theme=radical alt="Reyhan's GitHub Stats" />
+ </a>
 
 <!--
 
