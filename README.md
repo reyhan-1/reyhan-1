@@ -1,6 +1,7 @@
 # Hello World! I'm Reyhan 👩🏻‍💻✨
 
-I'm senior software engineering student in Bilkent University, interested in front-end web development, mobile app development and 3D Graphics. <br/>
+I'm senior software engineering student in Bilkent University, <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;interested in front-end web development, mobile app development and 3D Graphics. <br/>
 
 **I am passionate about designing thoughtful solutions to complex problems.**
 
@@ -14,7 +15,7 @@ I'm senior software engineering student in Bilkent University, interested in fro
 
 <img align="left" src="avatar.gif" alt="avatar"> <br/>
 
-- find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik)  💼
+- find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik)  💼&nbsp;&nbsp;
 - visit [my web page](http://reyhan-1.github.io/)  :octocat:
 - email me reyhanuyanik@icloud.com 👋
 
@@ -25,7 +26,7 @@ Feel free to message me about anything!
 <br/>
 
 <details>
- <summary><b> My GitHub Statistics</b></summary>
+ <summary><b> My GitHub Statistics </b></summary>
  <br/>
      <p>
   <img  height="150px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&&layout=compact&langs_count=6show_icons=true&&theme=nightowl"/> 
