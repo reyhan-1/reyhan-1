@@ -5,15 +5,14 @@
   <img align="right" src=https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&layout=compact&langs_count=6&show_icons=true&theme=radical alt="Reyhan's GitHub Stats" />
  </a>
 I'm senior software engineering student in Bilkent University. <br/>
+My industry interests include front-end web development, mobile app development and 3D Graphics.
+I am passionate about designing thoughtful solutions to complex problems.
 
 - :seedling: &nbsp;I’m currently learning **Go** 
 
 ## How to Reach Me 
 
-
-<div style="width: 500px; height: 400px;">
-<img align="left" width="12%" height="12%" src="avatar.gif" alt="avatar"> <br/>
-</div>
+<img align="left" src="avatar.gif" alt="avatar"> <br/>
 
 - You can find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik) 
 - you can visit [my web page](http://reyhan-1.github.io/) 
