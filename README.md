@@ -9,9 +9,14 @@ I'm senior software engineering student in Bilkent University. <br/>
 - :seedling: &nbsp;I’m currently learning **Go** 
 
 ## How to Reach Me 
-<img align="left" width="75%" height="75%"src="avatar.gif" alt="avatar"> <br/>
-- You can find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik)
-- you can visit [my web page](http://reyhan-1.github.io/)
+
+
+<div style="width: 1000px; height: 600px;">
+<img align="left" src="avatar.gif" alt="avatar"> <br/>
+</div>
+
+- You can find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik) 
+- you can visit [my web page](http://reyhan-1.github.io/) 
 - Email me reyhanuyanik@icloud.com
 
 <!--
