@@ -5,10 +5,9 @@
 
 - interested in front-end web development, mobile app development and 3D Graphics. <br/>
 
+- currently learning **Go** and working on personal projects :)
+
 **I am passionate about designing thoughtful solutions to complex problems.**
-
-- :seedling: &nbsp;currently learning **Go** and working on personal projects :)
-
 
 ## Programming Languages & Technologies
    <img align="right" height="150px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&&layout=compact&langs_count=6show_icons=true&theme=nightowl"/> 
