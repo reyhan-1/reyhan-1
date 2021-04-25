@@ -1,9 +1,9 @@
 # Hello World! I'm Reyhan 👩🏻‍💻✨
 
-I'm senior software engineering student in Bilkent University, <br/>
+- senior software engineering student in Bilkent University <br/>
     <img align="right"  height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=reyhan-1&hide_border=false&theme=nightowl"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;interested in front-end web development, mobile app development and 3D Graphics. <br/>
+- interested in front-end web development, mobile app development and 3D Graphics. <br/>
 
 **I am passionate about designing thoughtful solutions to complex problems.**
 
