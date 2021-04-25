@@ -13,7 +13,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik). And yo
 
 
 ## How to Reach Me 
-
+<img align="left" src="avatar.gif" alt="avatar">
 - Email me reyhanuyanik@icloud.com
 
 
