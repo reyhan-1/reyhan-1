@@ -15,16 +15,16 @@ I'm interested in front-end web development, mobile app development and 3D Graph
 - email me reyhanuyanik@icloud.com
 
 <br/>
-<br/>
 
-## Github Statistics
 
+<details>
+ <summary><b> My GitHub Statistics</b></summary>
  <br/>
      <p>
   <img  height="150px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&&layout=compact&langs_count=6show_icons=true&&theme=nightowl"/> 
  <img  height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=reyhan-1&hide_border=false&theme=nightowl" />
      </p>
-
+</details>
 
 
 
