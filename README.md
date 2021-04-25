@@ -1,13 +1,18 @@
 # Hello World! I'm Reyhan 👩🏻‍💻✨
 
 I'm senior software engineering student in Bilkent University, <br/>
+    <img align="right"  height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=reyhan-1&hide_border=false&theme=nightowl"/>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;interested in front-end web development, mobile app development and 3D Graphics. <br/>
 
 **I am passionate about designing thoughtful solutions to complex problems.**
 
 - :seedling: &nbsp;currently learning **Go** and working on personal projects :)
 
+
 ## Programming Languages & Technologies
+   <img align="right" height="150px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&&layout=compact&langs_count=6show_icons=true&theme=nightowl"/> 
+
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
  
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
@@ -21,17 +26,7 @@ I'm senior software engineering student in Bilkent University, <br/>
 - email me reyhanuyanik@icloud.com 👋
 -  [instagram](https://www.instagram.com/uyanikre/)  🎥
 
-Feel free to message me about anything! 
-
- ## My GitHub Statistics 
- <br/>
-     <p>
-  <img  height="150px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&&layout=compact&langs_count=6show_icons=true&theme=nightowl"/> 
- <img  height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=reyhan-1&hide_border=false&theme=nightowl" />
-     </p>
-
-
-
+Feel free to contact me about anything! 
 
 <!--
 
