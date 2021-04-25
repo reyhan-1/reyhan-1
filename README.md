@@ -1,12 +1,13 @@
 # Hello World! I'm Reyhan 👩🏻‍💻
- <img align="right" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=reyhan-1&hide_border=true&theme=nightowl" />
- <img align="right" height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&&layout=compact&langs_count=6show_icons=true&&theme=nightowl"/>
 
 I'm senior software engineering student in Bilkent University. <br/>
 I'm interested in front-end web development, mobile app development and 3D Graphics. <br/>
 **I am passionate about designing thoughtful solutions to complex problems.**
 
 - :seedling: &nbsp;I’m currently learning **Go** 
+
+ <img  height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=reyhan-1&hide_border=true&theme=nightowl" />
+ <img align="right" height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&&layout=compact&langs_count=6show_icons=true&&theme=nightowl"/>
 ---
 ## How to Reach Me 
 
