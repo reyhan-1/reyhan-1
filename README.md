@@ -20,10 +20,10 @@
 
 <img align="left" src="avatar.gif" alt="avatar" width='130'> <br/>
     <img align="right"  height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=reyhan-1&hide_border=false&theme=nightowl"/>
-- find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik)  🚀&nbsp;&nbsp;
-- visit [my web page](http://reyhan-1.github.io/)  :octocat:
-- email me reyhanuyanik@icloud.com 👋
--  [instagram](https://www.instagram.com/uyanikre/)  🎥
+- [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik)  🚀&nbsp;&nbsp;
+- [my web page](http://reyhan-1.github.io/)  :octocat:
+- [email me](reyhanuyanik@icloud.com) 👋
+- [instagram](https://www.instagram.com/uyanikre/)  🎥
 
 Feel free to contact me about anything! 
 
