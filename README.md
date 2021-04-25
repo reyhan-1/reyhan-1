@@ -12,7 +12,7 @@ I'm senior software engineering student in Bilkent University. <br/>
 
 
 <div style="width: 500px; height: 400px;">
-<img align="left" width="10%" height="10%" src="avatar.gif" alt="avatar"> <br/>
+<img align="left" width="15%" height="15%" src="avatar.gif" alt="avatar"> <br/>
 </div>
 
 - You can find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik) 
