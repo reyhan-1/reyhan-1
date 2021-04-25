@@ -11,7 +11,7 @@ I'm senior software engineering student in Bilkent University. <br/>
 ## How to Reach Me 
 
 
-<div style="width: 1000px; height: 600px;">
+<div style="width: 500px; height: 400px;">
 <img align="left" src="avatar.gif" alt="avatar"> <br/>
 </div>
 
