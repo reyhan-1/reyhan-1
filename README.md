@@ -1,10 +1,10 @@
-# Hello World! I'm Reyhan 👩🏻‍💻
+# Hello World! I'm Reyhan 👩🏻‍💻✨
 
-I'm senior software engineering student in Bilkent University. <br/>
-I'm interested in front-end web development, mobile app development and 3D Graphics. <br/>
+I'm senior software engineering student in Bilkent University, interested in front-end web development, mobile app development and 3D Graphics. <br/>
+
 **I am passionate about designing thoughtful solutions to complex problems.**
 
-- :seedling: &nbsp;I’m currently learning **Go** 
+- :seedling: &nbsp;currently learning **Go** 
 
 ## Programming Languages & Technologies
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
@@ -14,9 +14,9 @@ I'm interested in front-end web development, mobile app development and 3D Graph
 
 <img align="left" src="avatar.gif" alt="avatar"> <br/>
 
-- find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik) 
+- find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik)  💼
 - visit [my web page](http://reyhan-1.github.io/)  :octocat:
-- email me reyhanuyanik@icloud.com
+- email me reyhanuyanik@icloud.com 👋
 
 Feel free to message me about anything! 
 
