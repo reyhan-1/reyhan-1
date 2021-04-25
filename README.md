@@ -13,18 +13,13 @@ I'm senior software engineering student in Bilkent University, <br/>
 
 ## How to Reach Me 
 
-<img align="left" src="avatar.gif" alt="avatar"> <br/>
+<img align="left" src="avatar.gif" alt="avatar" width='130'> <br/>
 
 - find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik)  🚀&nbsp;&nbsp;
 - visit [my web page](http://reyhan-1.github.io/)  :octocat:
 - email me reyhanuyanik@icloud.com 👋
 
 Feel free to message me about anything! 
-
-
-
-<br/>
-
 
  ## My GitHub Statistics 
  <br/>
