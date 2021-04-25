@@ -29,7 +29,7 @@ Feel free to message me about anything!
  ## My GitHub Statistics 
  <br/>
      <p>
-  <img  height="150px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&&layout=compact&langs_count=6show_icons=true&&theme=nightowl"/> 
+  <img  height="150px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&&layout=compact&langs_count=6show_icons=true&theme=nightowl"/> 
  <img  height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=reyhan-1&hide_border=false&theme=nightowl" />
      </p>
 
