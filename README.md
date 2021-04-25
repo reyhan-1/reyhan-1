@@ -11,13 +11,15 @@ I'm interested in front-end web development, mobile app development and 3D Graph
  <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&&layout=compact&langs_count=6show_icons=true&&theme=nightowl"/> 
      </p>
 ---
-## How to Reach Me 
+
+---
+## How to Reach Me
 
 <img align="left" src="avatar.gif" alt="avatar"> <br/>
 
-- You can find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik) 
-- you can visit [my web page](http://reyhan-1.github.io/) 
-- Email me reyhanuyanik@icloud.com
+- find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik) 
+- visit [my web page](http://reyhan-1.github.io/) 
+- email me reyhanuyanik@icloud.com
 
 
 
