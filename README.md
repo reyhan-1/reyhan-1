@@ -15,7 +15,9 @@ I'm interested in front-end web development, mobile app development and 3D Graph
 - email me reyhanuyanik@icloud.com
 
 <br/>
+<br/>
 
+<br/>
 
 <details>
  <summary><b> My GitHub Statistics</b></summary>
