@@ -5,13 +5,7 @@ I'm interested in front-end web development, mobile app development and 3D Graph
 **I am passionate about designing thoughtful solutions to complex problems.**
 
 - :seedling: &nbsp;I’m currently learning **Go** 
- <br/>
-     <p>
-  <img  height="150px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&&layout=compact&langs_count=6show_icons=true&&theme=nightowl"/> 
- <img  height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=reyhan-1&hide_border=false&theme=nightowl" />
-     </p>
 
----
 ## How to Reach Me
 
 <img align="left" src="avatar.gif" alt="avatar"> <br/>
@@ -19,6 +13,16 @@ I'm interested in front-end web development, mobile app development and 3D Graph
 - find me on [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik) 
 - visit [my web page](http://reyhan-1.github.io/) 
 - email me reyhanuyanik@icloud.com
+
+---
+
+ <br/>
+     <p>
+  <img  height="150px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&&layout=compact&langs_count=6show_icons=true&&theme=nightowl"/> 
+ <img  height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=reyhan-1&hide_border=false&theme=nightowl" />
+     </p>
+
+
 
 
 
