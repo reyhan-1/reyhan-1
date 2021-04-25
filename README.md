@@ -5,9 +5,11 @@ I'm interested in front-end web development, mobile app development and 3D Graph
 **I am passionate about designing thoughtful solutions to complex problems.**
 
 - :seedling: &nbsp;I’m currently learning **Go** 
-
+ <br/>
+     <p>
  <img  height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=reyhan-1&hide_border=true&theme=nightowl" />
- <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&&layout=compact&langs_count=6show_icons=true&&theme=nightowl"/>
+ <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&&layout=compact&langs_count=6show_icons=true&&theme=nightowl"/> 
+     </p>
 ---
 ## How to Reach Me 
 
