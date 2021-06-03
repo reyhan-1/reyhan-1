@@ -1,11 +1,11 @@
 # Hello World! I'm Reyhan 👩🏻‍💻✨
+B.S. Computer Science (2021) [Bilkent University](https://w3.bilkent.edu.tr/bilkent/) 🎓 <br/>
 
-- senior software engineering student in Bilkent University <br/>
-
+- currently I'm summer intern at [JotForm](https://www.jotform.com/), working as a Front-End Web Developer <br/>
 
 - interested in front-end web development, mobile app development and 3D Graphics. <br/>
 
-- currently learning **Go** and working on personal projects :)
+- lately I've been learning **Go** and working on personal projects :)
 
 **I am passionate about designing thoughtful solutions to complex problems.**
 
