@@ -1,10 +1,6 @@
-# Hello World! I'm Reyhan 👩🏻‍💻✨
+# Hello World! I'm Reyhan 👩🏻‍💻
 B.S. Computer Science (2021) [Bilkent University](https://w3.bilkent.edu.tr/bilkent/) 🎓 <br/>
-
-- interested in front-end web development, mobile app development and 3D Graphics. <br/>
-
-- lately I've been learning **Go** and working on personal projects :)
-
+Associate Software Engineer at [Uplight](https://uplight.com/) <br/>
 **I am passionate about designing thoughtful solutions to complex problems.**
 
 ## Programming Languages & Technologies
@@ -16,13 +12,11 @@ B.S. Computer Science (2021) [Bilkent University](https://w3.bilkent.edu.tr/bilk
 
 ## How to Reach Me 
 
-Feel free to contact me about anything! 
-<img align="left" src="avatar.gif" alt="avatar" width='130'> <br/>
+Feel free to contact me
    
 - [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik)  🚀&nbsp;&nbsp;
 - [my web page](http://reyhan-1.github.io/)  :octocat:
-- [email me](reyhanuyanik@icloud.com) 👋
-- [instagram](https://www.instagram.com/uyanikre/)  🎥
+- [email me](reyhan.uyanik@uplight.com) 👋
 
 <details>
   <summary><b> Github Streak</b></summary>
