@@ -1,4 +1,4 @@
-# Hello World! I'm Reyhan 
+## Hello World! I'm Reyhan 
 B.S. Computer Science [Bilkent University](https://w3.bilkent.edu.tr/bilkent/) 🎓 <br/>
 Associate Software Engineer at [Uplight](https://uplight.com/) 👩🏻‍💻 <br/>
 <!--
@@ -9,9 +9,7 @@ Associate Software Engineer at [Uplight](https://uplight.com/) 👩🏻‍💻 <
  
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
 -->
-## How to Reach Me 
-
-Feel free to contact me
+### How to Reach Me 
 - reyhan.uyanik@uplight.com
 - [my web page](http://reyhan-1.github.io/) 
 - [LinkedIn](https://www.linkedin.com/in/reyhan-uyanik)
