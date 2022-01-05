@@ -1,4 +1,4 @@
-## Hello World! I'm Reyhan 
+## Hi There! I'm Reyhan 
 B.S. Computer Science [Bilkent University](https://w3.bilkent.edu.tr/bilkent/) 🎓 <br/>
 Associate Software Engineer at [Uplight](https://uplight.com/) 👩🏻‍💻 <br/>
 <!--
