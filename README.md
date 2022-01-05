@@ -1,7 +1,8 @@
 ## Hi There! I'm Reyhan 
+<!-- 
 B.S. Computer Science [Bilkent University](https://w3.bilkent.edu.tr/bilkent/) 🎓 <br/>
 Associate Software Engineer at [Uplight](https://uplight.com/) 👩🏻‍💻 <br/>
-<!--
+
 ## Programming Languages & Technologies
    <img align="right" height="150px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=reyhan-1&&layout=compact&langs_count=6show_icons=true&theme=nightowl"/> 
 
