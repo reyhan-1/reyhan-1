@@ -1,4 +1,11 @@
-## Hi There! I'm Reyhan 
+
+<h3 align="center"> Hi there! I'm Reyhan </h3>
+
+<p align="center">
+  <a href="https://reyhan-1.github.io/">Website</a> •
+  <a href="https://www.linkedin.com/in/reyhan-uyanik">LinkedIn</a>
+</p>
+
 <!-- 
 B.S. Computer Science [Bilkent University](https://w3.bilkent.edu.tr/bilkent/) 🎓 <br/>
 Associate Software Engineer at [Uplight](https://uplight.com/) 👩🏻‍💻 <br/>
